@@ -1,1 +1,7 @@
-console.log('helo word');
+import path from 'path';
+
+const log =(string)=>{
+    console.log(string);
+}
+
+log('Hell');
